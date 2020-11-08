@@ -1,0 +1,22 @@
+.banner {
+  background-image: url('../../../landing/images/Jul.jpg');
+  background-position: bottom 0px right 0px;
+  background-attachment: fixed;
+  background-size: cover;
+  text-shadow: 1px 1px 26px rgb(0 0 0);
+  margin-bottom: 20px;
+  height: 400px;
+}
+
+.banner-title {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-size: 30px;
+  font-style: bold;
+  justify-content: center;
+  height: 50px;
+  color: #ebd423;
+  margin: auto;
+}
